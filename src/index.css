@@ -1,0 +1,278 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgb(248, 250, 252);
+    margin-right: 20px;
+}
+
+.input_menu {
+    padding-left: 40px;
+    width: 300px;
+    height: 40px;
+    border-radius: 15px
+}
+
+.button_menu {
+    border: none;
+    background-color: #fff;
+    position: relative;
+    top: 5px;
+    left: -292px;
+}
+
+.logo, .input_menu{
+    cursor: pointer;
+    margin-bottom: 32px;
+}
+
+.burger_menu_li {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #000;
+}
+
+.AvatarNewsPhoto {
+    width: 40px;
+    height: 40px;
+}
+
+.burger_menu_li {
+    cursor: pointer;
+    margin-bottom: 16px;
+}
+
+.image_menu {
+    margin-right: 8px;
+}
+
+.warning_content {
+    margin-top: 114px;
+}
+
+.Switch {
+    display: flex;
+    align-items: center;
+}
+
+.warning_p {
+    color: rgb(71, 85, 105);
+    width: 280px;
+}
+
+.warning {
+    margin-bottom: 26px;
+}
+
+.Dismiss {
+    margin-right: 18px;
+}
+
+.Dismiss, .GoPro {
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    color: #4f46e5;
+    margin-top: 26px;
+}
+
+.switchTitleFor, .switchTitleFollow {
+    width: 400px;
+    height: 40px;
+    border: none;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.switchTitleFollow:hover {
+    color: #fff;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.switchTitleFor:hover {
+    color: #fff;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.inputMain {
+    width: 900px;
+    padding-left: 10px;
+    font-size: 18px;
+    height: 124px;
+}
+
+.holder {
+    display: flex;
+}
+
+.main {
+    width: 800px;
+}
+
+.smile {
+    cursor: pointer;
+    position: relative;
+    margin-right: 8px;
+    top: -35px;
+    right: -738px;
+}
+
+.scretch {
+    position: relative;
+    top: -35px;
+    right: -730px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.post_button {
+    border: none;
+    position: relative;
+    border-radius: 20px;
+    padding: 10px 24px;
+    background-color:#4f46e5;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    top: -70px;
+    right: -795px;
+    cursor: pointer;
+}
+
+.textPost {
+    margin-right: 6px;
+}
+
+.News,.BackgroundPhotoNews {
+    width: 900px;
+}
+.News {
+    margin-bottom: 40px;
+}
+
+.Newstitle {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.NewsCommet, .NewsCommets {
+    display: flex;
+    align-items: center;
+}
+
+.NewsCommet {
+    cursor: pointer;
+    margin-right: 24px;
+}
+
+.NewsIconPhoto {
+    margin-right: 8px;
+}
+
+.AvatarNewsPhoto {
+    margin-right: 10px;
+}
+
+.workPlace {
+   color: rgb(71, 85, 105);
+ }
+
+ .Profile {
+    padding-left: 100px;
+ }
+
+ .logoBlock {
+    margin-top: 32px;
+    margin-bottom: 18px;
+ }
+
+ .own, .Profile {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+ }
+
+ .titleOfPerson {
+    font-size: 20px;
+    margin-bottom:8px ;
+ }
+
+ .idOfPerson {
+    color: rgb(30, 41, 59);
+    margin-bottom:8px ;
+ }
+
+ .placeOfPerson {
+    color: rgb(71, 85, 105);
+ }
+
+ .stats {
+    margin-bottom: 40px;
+ }
+
+.buttonStat {
+    margin-right: 10px;
+    cursor: pointer;
+    border: none;
+    background-color: rgb(248, 250, 252);
+    width: 107px;
+    height: 44px;
+   
+ }
+
+ .aboutMeTitle {
+    margin-bottom: 16px;
+ }
+
+ .aboutMeDesc {
+    font-size: 14px;
+    color: rgb(71, 85, 105);
+    margin-bottom: 12px;
+ }
+
+ .aboutMeBtn {
+    border: none;
+    background-color: #fff;
+    color: #4f46e5;
+    font-size: 14px;
+    cursor: pointer;
+ }
+
+ .FriendEl {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+ }
+
+ .FriendImage {
+    margin-right: 10px;
+ }
+
+ .FriendsStats {
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    margin-right: 120px;
+ }
+
+ .IconTrashBox {
+    cursor: pointer;
+ }
+
+ .titleFriends {
+    margin-top: 32px;
+    margin-bottom: 16px;
+    font-size: 18px;
+ }
+
+ .friendDesc {
+    color: rgb(71, 85, 105);
+ }
+
+ 
+
